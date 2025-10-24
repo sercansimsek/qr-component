@@ -2,7 +2,7 @@ import qrCode from "./images/image-qr-code.png";
 
 export const App = () => {
   return (
-    <div className="flex flex-col justify-center items-center bg-[#D5E1EF] h-screen">
+    <div className="flex flex-col justify-center items-center bg-slate-300 h-screen">
       <div className="flex flex-col px-4 pt-4 pb-6 gap-6 rounded-xl bg-current h-[500px] w-[320px]">
         <img
           className="w-[288px] h-[288px] rounded-lg"
